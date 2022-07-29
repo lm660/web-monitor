@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">前端监控系统</div>
+    <div class="dashboard-text">前端监控系统--首页概览</div>
   </div>
 </template>
 
